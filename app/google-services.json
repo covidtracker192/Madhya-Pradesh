@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "244750374310",
+    "firebase_url": "https://madhya-pradesh-48f7c.firebaseio.com",
+    "project_id": "madhya-pradesh-48f7c",
+    "storage_bucket": "madhya-pradesh-48f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244750374310:android:1118ba4446ba474f29ab67",
+        "android_client_info": {
+          "package_name": "com.covid19.madhyapradesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244750374310-nve1t7if25n0bveojcdi9v5tjb5pk44a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.madhyapradesh",
+            "certificate_hash": "3db8cd558aff88d5fbd857bf239382aeafe23508"
+          }
+        },
+        {
+          "client_id": "244750374310-767jqetbnldlgbrnsi0i81u1uf3fftpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNADWq6j9SY4FrAkJxqyHM4WS2USSa77c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244750374310-767jqetbnldlgbrnsi0i81u1uf3fftpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
